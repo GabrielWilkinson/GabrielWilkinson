@@ -49,5 +49,43 @@ During projects, I learnt how to work in a Scrum environment, using 1 week sprin
     </ul>
   </div>
     
+  <h1 align="center">Work Experience</h1>
+  <h2 align="left">Lockton Reinsurance Company - Account Handler (April 2020 - July 2022)</h2>
+  
+  <ul>
+      <li> Integral part of a broking team who placed 3 very challenging UK Casualty Treaties, worth £1,350,000 brokerage. 
+      <li> Co-lead and successfully placed 6 Turkish Accounts, in multiple lines of business. 
+      <li> Entrusted to lead one of the team’s key client’s Property Accounts. 
+      <li> Broking presentations to Client's and Reinsurer's. Data and Contract work.
+      <li> Completed CII (Chartered Insurance Institute) Exams within a year.
+      <li> Prioritised workload from Account Executives and Stakeholders while managing expectations. 
+  </ul>
+  
+    <h1 align="center">Education</h1>
+  <h2 align="left">University of Leeds - Geophysical Sciences BSc (2015-2018) - Class 2.1</h2>
+  
+   <ul>
+      <li> Dissertation - Study to find the Thermal Conductivity of the alpha-PbO2 phase of SiO2 found in the Lower Mantle using Atomistic simulations (linux was used to model the atomistic simulations). MATLAB was taught throughout the course. 
+      <li> 88 & 88 in Mathematics Modules.
+      <li> Extra Curricular - Leeds RAG (Raising and Giving) Society - Bike to Berlin. Ski Society.
+  </ul>
+  
+  <h2 align="left">Norwich School - A Levels (2013-2015)</h2>
+   <ul>
+      <li> Maths (A), Physics (A), Chemistry (A), Biology (A at AS Level).
+      <li> Extra Curricular - Volunteering at NNAB (Norfolk & Norwich Association for the blind). 1st XV Rugby. Running. Choir. Musicals.
+  </ul>
+  
+  <h2 align="left">Woodbridge School - GCSEs (2011-2013)</h2>
+   <ul>
+      <li> 4 A*s, 3A’s, 3B’s and a C
+      <li> Extra Curricular -  Volunteering at St John’s House Dementia Care Home, Norwich. Leicester Tigers EPDG Rugby. Choir. Musicals.
+  </ul>
+  
+   <h2 align="left">Canadian Ski Instructor's Alliance Level 2 (2019)</h2>
   
   
+
+
+    
+
