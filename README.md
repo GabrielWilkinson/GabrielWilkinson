@@ -29,3 +29,25 @@ I have always prided myself on my strong soft skills. As a scrum half in rugby, 
 <li>Languages learnt include Ruby, Rails, JavaScript, HTML, CSS and SQL.
 <li>Independent learning; would often take spare time to work on tangents that I found interesting and were off the syllabus, such as using Cloudinary for image upload.
   </ul>
+
+<h1 align="center">Projects</h1>
+
+During projects, I learnt how to work in a Scrum environment, using 1 week sprints to optimise productivity and achieve a MVP. In our daily stand ups, we discussed any issues/bugs and used a Kanban board to prioritise the key tasks and create tickets using the core user journey we had designed on Figma. I also learnt how to discuss and merge conflicts on Github when working on a project in groups. B I worked across the whole stack on both apps. Both apps were hosted on Heroku.
+
+<div class="flex">
+  <div> 
+    <h2**Beats Club**- github.com/GabrielWilkinson/BEATS_CLUB</h2>
+    <ul>
+      <li> Mobile app connecting similar minded music lovers. Users can join clubs and create posts (with pictures attached).
+      <li> Personally installed the Image Upload feature.
+    </ul>
+  </div>
+  <div>
+    <h2**Celebs4U**- github.com/GabrielWilkinson/CELEBS_4_U</h2>
+      <ul>
+      <li> Web app where you can book celebrities - a solution to the question ‘If you could have a dinner party with any 5 people (dead or alive) who would they be and why?’.
+    </ul>
+  </div>
+    
+  
+  
