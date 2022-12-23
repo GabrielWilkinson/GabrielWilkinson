@@ -36,14 +36,14 @@ During projects, I learnt how to work in a Scrum environment, using 1 week sprin
 
 <div class="flex">
   <div> 
-    <h2>**Beats Club**- github.com/GabrielWilkinson/BEATS_CLUB</h2>
+    <h2>Beats Club- github.com/GabrielWilkinson/BEATS_CLUB</h2>
     <ul>
       <li> Mobile app connecting similar minded music lovers. Users can join clubs and create posts (with pictures attached).
       <li> Personally installed the Image Upload feature.
     </ul>
   </div>
   <div>
-    <h2>**Celebs4U**- github.com/GabrielWilkinson/CELEBS_4_U</h2>
+    <h2>Celebs4U- github.com/GabrielWilkinson/CELEBS_4_U</h2>
       <ul>
       <li> Web app where you can book celebrities - a solution to the question ‘If you could have a dinner party with any 5 people (dead or alive) who would they be and why?’.
     </ul>
